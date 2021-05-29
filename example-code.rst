@@ -5,4 +5,4 @@ Example Code
 
     .. code-block:: python
 
-        print('Example Code'
+        print('Example Code')
