@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Test"
+project = "Sphinx Node Name Cheatsheet"
 copyright = "2021, Sam"
 author = "Sam"
 

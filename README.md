@@ -1,11 +1,8 @@
-# Writing a simple external data oriented Sphinx extension
+# Sphinx Node Name Cheat Sheet
 
-This repo is the source code for the blog post [Writing a simple external data oriented Sphinx extension](https://sammart.in/post/2021-05-10-external-data-sphinx-extension/).
+When writing Sphinx extensions I've never found an easy way to figure out what docutils or Sphinx
+node classes I should be using to get the desired formatting.
+This documentation is intended to be a quick reference to figure out what your favourite RST turns into when it gets parsed
+into a docutils or Sphinx object within the RST rendering engine!
 
-## Quickstart
-
-```
-$ pip install sphinx sphinx_rtd_theme
-$ make html
-$ open _build/html/index.html
-```
+*Rendered Site:* [https://sphinx-node-name-cheat-sheet.readthedocs.io/en/latest/](https://sphinx-node-name-cheat-sheet.readthedocs.io/en/latest/)
